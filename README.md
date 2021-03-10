@@ -1,1 +1,1 @@
-# [Corona Vírus Wiki](https://github.com/DilvanLab/corona/wiki/Corona)
+# [Corona Vírus/Covid-19 Wiki](https://github.com/DilvanLab/corona/wiki/Corona)
